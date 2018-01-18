@@ -1,0 +1,7 @@
+D:\sophi\visual_studio\LynchS-HW10\LynchS-HW11\LynchS-HW4\bin\Debug\LynchS-HW4.exe.config
+D:\sophi\visual_studio\LynchS-HW10\LynchS-HW11\LynchS-HW4\bin\Debug\LynchS-HW4.exe
+D:\sophi\visual_studio\LynchS-HW10\LynchS-HW11\LynchS-HW4\bin\Debug\LynchS-HW4.pdb
+D:\sophi\visual_studio\LynchS-HW10\LynchS-HW11\LynchS-HW4\obj\Debug\LynchS-HW12.csprojResolveAssemblyReference.cache
+D:\sophi\visual_studio\LynchS-HW10\LynchS-HW11\LynchS-HW4\obj\Debug\LynchS-HW4.exe
+D:\sophi\visual_studio\LynchS-HW10\LynchS-HW11\LynchS-HW4\obj\Debug\LynchS-HW4.pdb
+D:\sophi\visual_studio\LynchS-HW10\LynchS-HW11\LynchS-HW4\obj\Debug\LynchS-HW12.csproj.CoreCompileInputs.cache

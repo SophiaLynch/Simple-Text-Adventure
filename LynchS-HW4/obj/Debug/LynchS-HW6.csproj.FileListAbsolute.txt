@@ -1,0 +1,3 @@
+D:\sophi\visual_studio\LynchS-HW6\LynchS-HW6\LynchS-HW4\bin\Debug\LynchS-HW4.exe.config
+D:\sophi\visual_studio\LynchS-HW6\LynchS-HW6\LynchS-HW4\obj\Debug\LynchS-HW4.exe
+D:\sophi\visual_studio\LynchS-HW6\LynchS-HW6\LynchS-HW4\obj\Debug\LynchS-HW4.pdb

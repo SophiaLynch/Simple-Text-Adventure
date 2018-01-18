@@ -1,0 +1,15 @@
+D:\sophi\Documents\LynchS-HW4\LynchS-HW4\LynchS-HW4\bin\Debug\LynchS-HW4.exe.config
+D:\sophi\Documents\LynchS-HW4\LynchS-HW4\LynchS-HW4\bin\Debug\LynchS-HW4.exe
+D:\sophi\Documents\LynchS-HW4\LynchS-HW4\LynchS-HW4\bin\Debug\LynchS-HW4.pdb
+D:\sophi\Documents\LynchS-HW4\LynchS-HW4\LynchS-HW4\obj\Debug\LynchS-HW5.csprojResolveAssemblyReference.cache
+D:\sophi\Documents\LynchS-HW4\LynchS-HW4\LynchS-HW4\obj\Debug\LynchS-HW4.exe
+D:\sophi\Documents\LynchS-HW4\LynchS-HW4\LynchS-HW4\obj\Debug\LynchS-HW4.pdb
+D:\sophi\Documents\LynchS-HW4\LynchS-HW5\LynchS-HW4\bin\Debug\LynchS-HW4.exe.config
+D:\sophi\Documents\LynchS-HW4\LynchS-HW5\LynchS-HW4\obj\Debug\LynchS-HW4.exe
+D:\sophi\Documents\LynchS-HW4\LynchS-HW5\LynchS-HW4\obj\Debug\LynchS-HW4.pdb
+C:\Users\sophi\Documents\Visual Studio 2015\Projects\LynchS-HW5\LynchS-HW5\LynchS-HW4\bin\Debug\LynchS-HW4.exe.config
+C:\Users\sophi\Documents\Visual Studio 2015\Projects\LynchS-HW5\LynchS-HW5\LynchS-HW4\obj\Debug\LynchS-HW4.exe
+C:\Users\sophi\Documents\Visual Studio 2015\Projects\LynchS-HW5\LynchS-HW5\LynchS-HW4\obj\Debug\LynchS-HW4.pdb
+C:\Users\sophi\Documents\Visual Studio 2015\Projects\LynchS-HW5\LynchS-HW5\LynchS-HW4\bin\Debug\LynchS-HW4.exe
+C:\Users\sophi\Documents\Visual Studio 2015\Projects\LynchS-HW5\LynchS-HW5\LynchS-HW4\bin\Debug\LynchS-HW4.pdb
+C:\Users\sophi\Documents\Visual Studio 2015\Projects\LynchS-HW5\LynchS-HW5\LynchS-HW4\obj\Debug\LynchS-HW5.csprojResolveAssemblyReference.cache
